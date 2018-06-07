@@ -1,0 +1,7 @@
+#management.security.enabled: false
+security:
+  basic:
+    enabled: true
+  user:
+    name: mon
+    password: monme
